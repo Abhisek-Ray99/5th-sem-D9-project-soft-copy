@@ -1,0 +1,12 @@
+.formControl {
+    width: 30%;
+    margin-bottom: 30px !important;
+}
+
+.inputCase{
+    border: 1px solid #000000;
+    border-radius: 35px;
+    padding: 2px 20px 6px 20px;
+    outline: none;
+    background-color: #fff;
+}
